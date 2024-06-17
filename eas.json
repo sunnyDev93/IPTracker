@@ -12,7 +12,7 @@
     },
     "production": {
       "android": {
-        "image": "12"
+        "image": "default-12.0"
       }
     }
   },
